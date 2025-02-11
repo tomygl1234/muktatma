@@ -9,7 +9,7 @@ export default function Footer() {
                     <p>Tel: <span className='text-amber-400'>+34 654814450</span></p>
                     <p>E-mail: <span className='text-amber-400'>michelwils2016@gmail.com</span></p>
                 </div>
-                <div>
+                <div className='mb-4'>
                     <p className='font-bold font-serif text-md uppercase border border-white p-3 inline-block mb-6'>Miguel Wils</p>
                     <p>&copy; 2025 Miguel Wils. All rights reserved.</p>
                 </div>
